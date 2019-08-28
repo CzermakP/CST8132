@@ -1,0 +1,6 @@
+S |AccountNumber: 1 |Name: p c |Email Address: pp@dd.nn |Balance: $20.00 |Minimum Balance: $2.00 |Interest Rate: 0.05%
+C |AccountNumber: 3 |Name: l p |Email Address: ll@pp.mm |Balance: $100.00 |Fee $7.60
+C |AccountNumber: 1231234 |Name: John Smith |Email Address: johnsmith@cst8132.com |Balance: $100.50 |Fee $6.50
+S |AccountNumber: 5551234 |Name: Joe Blow |Email Address: joeblow@cst8132.com |Balance: $150.23 |Minimum Balance: $50.00 |Interest Rate: 0.46%
+C |AccountNumber: 9876543 |Name: Jane Doe |Email Address: janedoe@cst8132.com |Balance: $5.76 |Fee $6.27
+S |AccountNumber: 8765433 |Name: Sally Smith |Email Address: sally.smith@cst8132.com |Balance: $0.01 |Minimum Balance: $10.00 |Interest Rate: 0.97%
