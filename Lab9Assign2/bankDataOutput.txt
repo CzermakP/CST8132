@@ -1,0 +1,5 @@
+ S  AccountNumber: 1001  Name: John Doe  Phone Number: 6131231234  Email Address: john@john.com  Balance: $1000.00  Minimum Balance: $200.00  Interest Rate: 0.01%  
+ C  AccountNumber: 1002  Name: Jacob John  Phone Number: 6132342345  Email Address: jacob@jacob.com  Balance: $2000.00  Fee: $50.00 
+ S  AccountNumber: 1003  Name: Anu Thomas  Phone Number: 6133453456  Email Address: anu@anu.com  Balance: $3000.00  Minimum Balance: $250.00  Interest Rate: 0.12%  
+ C  AccountNumber: 1004  Name: Nicole James  Phone Number: 6134564567  Email Address: nicole@nicole.com  Balance: $4000.00  Fee: $500.00 
+ S  AccountNumber: 1005  Name: Sam George  Phone Number: 61315675678  Email Address: sam@sam.com  Balance: $5000.00  Minimum Balance: $1000.00  Interest Rate: 0.15%  

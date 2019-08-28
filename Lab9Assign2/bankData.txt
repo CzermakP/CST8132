@@ -1,0 +1,5 @@
+s 1001 John Doe 6131231234 john@john.com 1000.00 0.01 200.00
+c 1002 Jacob John 6132342345 jacob@jacob.com 2000.00 50.00
+s 1003 Anu Thomas 6133453456 anu@anu.com 3000.00 0.12 250.00
+c 1004 Nicole James 6134564567 nicole@nicole.com 4000.00 500.00
+s 1005 Sam George 61315675678 sam@sam.com 5000.00 0.15 1000.00
